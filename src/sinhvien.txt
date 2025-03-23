@@ -1,0 +1,10 @@
+T012001,Nguyễn Thị Hoa,False,2001-10-30  
+T012005,Trần Văn Huy,True,2000-02-28  
+T012007,Lê Thị Lan,False,2002-03-15  
+T012009,Phạm Văn Nam,True,1999-07-20  
+T012013,Đỗ Thị Hương,False,2003-11-05  
+T012015,Ngô Quang Minh,True,2001-12-12  
+T012018,Trịnh Thị Mai,False,2000-08-25  
+T012022,Hoàng Văn Bình,True,1998-09-10  
+T012025,Trần Thị Ngọc,False,2002-06-18  
+T012030,Nguyễn Văn Long,True,2001-04-02  

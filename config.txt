@@ -1,0 +1,2 @@
+txt|SQL_Server
+src/sinhvien.txt|jdbc:sqlserver://localhost:1433;databaseName=ViDuDB1;user=sa;password=sa;trustServerCertificate=true;
